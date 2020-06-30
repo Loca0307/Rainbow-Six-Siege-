@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: white;
+    font-family: monospace;
+}
+
+
+.nigga{
+    width: 43%;
+    height: 850px;
+    background-color: black;
+    margin-left: 26.5%;
+    margin-right: 26.5%;
+
+}
+
+.baratto {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../Immagini/Home.jpg);
+    display: flex;
+  flex-wrap: wrap; 
+  align-items: center;
+  align-self: center;
+}
+
+.topbar {
+    text-decoration: none;
+    margin: 15px;
+    margin-left: 35px;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+a:hover {
+    transition-duration: 0.1s;
+    color: grey;
+    
+}
+
+.home {
+    color: blue;
+}
+
+.assalitori {
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 300px;
+
+}
+
+.difensori {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.img {
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 28px;
+}
+
+.img2 {
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    
+}
+.operatori {
+    color: white;
+    font-size: 18px;
+    margin-left: 25px;
+    text-decoration: none;
+}
+.up {
+    width: 100px;
+    margin-top: 45px;
+    
+}
+.img_operatori {
+ 
+    width: 100px;
+      
+   }
